@@ -1,4 +1,6 @@
-Integrated Campus Network Design & Implementation
+<h1>Integrated Campus Network Design & Implementation</h1>
+
+<img src="assets/preview.png" width="1000">
 A comprehensive, enterprise-level network simulation designed and implemented via Cisco Packet Tracer. This project replicates a real-world, high-availability infrastructure connecting three key educational and administrative facilities within an institute's campus.
 
 Developed as a capstone project following a rigorous 6-month Computer Networking track with IEEE ET5.
